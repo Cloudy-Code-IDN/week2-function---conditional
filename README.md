@@ -23,3 +23,8 @@ konversiNilai(72) // Output: B
 konversiNilai(60) // Output: C
 konversiNilai(45) // Output: D
 konversiNilai(30) // Output: E
+
+let i = konversiNilai;
+if {
+    console.log(i )
+}
