@@ -28,8 +28,6 @@ function konversiNilai(nilaiAkhir) {
             return console.log('D')
         default:
             return console.log('E')
-
-
     }
 }
 konversiNilai(72)
