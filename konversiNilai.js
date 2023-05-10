@@ -13,7 +13,7 @@ function konversiNilai(nilaiAkhir) {
     }
 }
 
-konversiNilai(72)
+konversiNilai(52)
 
 
 function konversiNilai(nilaiAkhir) {
